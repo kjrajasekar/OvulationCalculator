@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "651860265249",
+    "firebase_url": "https://fit-oasis-243606.firebaseio.com",
+    "project_id": "fit-oasis-243606",
+    "storage_bucket": "fit-oasis-243606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651860265249:android:135a9a4c361b69bafd9660",
+        "android_client_info": {
+          "package_name": "com.example.ovulationcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651860265249-vdvrph0gmfmgom7vlleh346k1v5klj88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ovulationcalculator",
+            "certificate_hash": "c5a00b4da8a9cf7a945fe07d2b6e1e214e5bd6b3"
+          }
+        },
+        {
+          "client_id": "651860265249-1lk25rp4n5vr78dqlu68pj2pjujgt76c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2_t9LM3PJbunssEMjSTUoDXT3KQ6n2Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651860265249-1lk25rp4n5vr78dqlu68pj2pjujgt76c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
